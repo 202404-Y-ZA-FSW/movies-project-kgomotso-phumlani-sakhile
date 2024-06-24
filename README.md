@@ -10,12 +10,12 @@
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
+- [� Table of Contents](#-table-of-contents)
 - [📖 React Group Project ](#-react-group-project-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
-  - [� Getting Started ](#-getting-started-)
+  - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
