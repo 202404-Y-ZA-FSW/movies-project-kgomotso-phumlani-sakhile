@@ -123,7 +123,7 @@ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [/.../issues](https://github.com/202404-Y-ZA-FSW/movies-project-kgomotso-phumlani-sakhile/issues).
+Feel free to check the [issues here](https://github.com/202404-Y-ZA-FSW/movies-project-kgomotso-phumlani-sakhile/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
